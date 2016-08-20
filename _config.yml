@@ -1,0 +1,14 @@
+layout_spectrum: 0.06184906978160143
+typography_spectrum: 0.17244371376000345
+color:
+  brandStrength: 0.10255597345530987
+  lightness: 0.10185275296680629
+  saturation: 0.42729279352352023
+  rhythmicContrast: 0.1004370367154479
+  brandColors:
+    - '#FF6600'
+    - '#C13B00'
+    - '#5E6D70'
+    - '#424E4F'
+    - '#1B1D1E'
+name: robotic surprise
