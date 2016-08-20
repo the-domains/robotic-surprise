@@ -12,5 +12,9 @@ color:
     - '#1B1D1E'
 layout_spectrum: 0.06184906978160143
 name: robotic surprise
+navigation:
+  - name: home
+    url: home
+    type: external
 title: Robots
 description: Surprise
