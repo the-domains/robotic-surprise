@@ -19,5 +19,7 @@ navigation:
   - name: portfolio
     url: portfolio
     type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e00e0e4e-2194-4288-b203-bbf099d62e34.tif
 title: Robots
 description: Surprise
