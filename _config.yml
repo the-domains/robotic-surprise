@@ -16,5 +16,8 @@ navigation:
   - name: home
     url: home
     type: external
+  - name: portfolio
+    url: portfolio
+    type: external
 title: Robots
 description: Surprise
